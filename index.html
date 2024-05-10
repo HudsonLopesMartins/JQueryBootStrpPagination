@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br" data-bs-theme="auto">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Modelo de Uso do componente JQueryBootStrpPagination">
+        <meta name="author" content="Hudson Martins">
+
+        <title>JQuery BootStrp Pagination</title>
+
+        <script src="libs/jquery/jquery-3.7.1.min.js"></script>
+        <link rel="stylesheet" href="libs/bootstrap/bootstrap.min.css">
+
+        <script type="text/javascript" src="js/jquerybootstrppagination.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+    </head>
+    <body>
+
+      <div class="container">
+        <h3>
+          JQueryBootStrpPagination
+          <small class="text-body-secondary">Versão 2024.05.10-1300</small>
+        </h3>
+
+        <hr>
+        <!-- Resultado da Consulta -->
+        <div class="row" id="finder-result">&nbsp;</div>
+
+        <!-- Botões de Consulta e Paginação -->
+        <div class="position-relative">
+
+          <div class="position-absolute top-0 start-0">
+            <button type="button" class="btn btn-primary" id="btnConsultar">Consultar</button>
+          </div>
+
+          <div class="position-absolute top-0 end-0">
+            <nav aria-label="Page navigation JQueryBootStrpPagination">
+
+              <ul class="pagination justify-content-end align-text-bottom" id="page-result">
+                <li class="page-item"><a class="page-link" href="#">0</a></li>    
+              </ul>
+
+            </nav>
+          </div>
+        </div>
+
+        <br><br>
+
+        <hr>
+
+      </div>
+    </body>
+</html>
