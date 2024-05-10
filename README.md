@@ -6,7 +6,7 @@ Este é um projeto de exemplo que demonstra como gerar páginação de um conjun
 - Bootstrap v5.3
 
 ## 📦 Instalação e Configuração
-**Clone:** Clone este repositório para o seu ambiente de desenvolvimento local:
+**Clonando o Respositório:** Clone este repositório para o seu ambiente de desenvolvimento local:
 ```
 git clone https://github.com/HudsonLopesMartins/JQueryBootStrpPagination.git
 ```
