@@ -11,7 +11,7 @@ Este é um projeto de exemplo que demonstra como gerar páginação de um conjun
 git clone https://github.com/HudsonLopesMartins/JQueryBootStrpPagination.git
 ```
 
-**2.** Configure os diretórios do JQuery e Bootstrap:
+**2.** Configure os diretórios do JQuery e Bootstrap
 Este modelo já possui o Bootstrap 5.3 e o JQuery 3.7.1 em seus diretórios padrões
 
 ## Estrutura do Projeto
