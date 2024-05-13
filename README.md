@@ -1,5 +1,6 @@
 # JQuery BootStrp Pagination
 Este é um projeto de exemplo que demonstra como gerar páginação de um conjunto de dados (json) em forma de cartão usando JQuery com Bootstrap.
+![image](https://github.com/HudsonLopesMartins/JQueryBootStrpPagination/assets/28989653/9c0d33db-906f-4eb2-abcc-9bcd62b0bb74)
 
 ## Pré-requisitos
 - JQuery v3.7.1
